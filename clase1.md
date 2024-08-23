@@ -19,4 +19,4 @@
 ## eliminar rama 
 - git branch -d  "ramaEliminar" 
 ## clonar un repo remoto
-- git clone https://github.com/tu-usuario/otro_proyecto.git   // se debe crear una carpeta en otra parte y luego simplemente clonamos con este comando.
+- git clone https://github.com/tu-usuario/otro_proyecto.git   // se debe crear una carpeta en otra parte y luego simplemente clonamos con este comandoe
